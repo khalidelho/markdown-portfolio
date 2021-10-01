@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Khalid](https://github.com/khalidelho/markdown-portfolio/blob/eee146be276e1a1b9a46c66ac491f9505afbc487/khalid2.JPG)
